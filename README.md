@@ -5,6 +5,8 @@ https://www.complexityexplorer.org/courses/119-introduction-to-complexity
 
 ## some notes on netlogo
 
+http://ccl.northwestern.edu/netlogo/
+
 If you save a model from Netlogo as Netlogo Web
 
 It will create an large html file that contains your model as well
