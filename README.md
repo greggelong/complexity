@@ -1,6 +1,8 @@
 # complexity
 A place to hold netlogo code, links and notes, for introduction to complexity
 
+![bidi](bidi.png)
+
 https://www.complexityexplorer.org/courses/119-introduction-to-complexity
 
 ## some notes on netlogo
