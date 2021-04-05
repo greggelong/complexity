@@ -1,7 +1,6 @@
 # complexity
 A place to hold netlogo code, links and notes, for introduction to complexity
 
-![bidi](bidi.png)
 
 https://www.complexityexplorer.org/courses/119-introduction-to-complexity
 
@@ -27,6 +26,8 @@ In module 2 I made a plot of the logistic map in P5.js of X over T with a silder
 https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
 
 I also made a plot of the logistic bifurcation diagram in p5js
+
+![bidi](bidi.png)
 
 https://editor.p5js.org/greggelong/sketches/JrK3J9X4J
 
