@@ -24,7 +24,7 @@ In module 2 I made a plot of the logistic map in P5.js of X over T with a silder
 
 https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
 
-I also made a plot of the logistic bifrucation diagram in p5js
+I also made a plot of the logistic bifurcation diagram in p5js
 
 https://editor.p5js.org/greggelong/sketches/JrK3J9X4J
 
