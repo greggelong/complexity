@@ -16,3 +16,18 @@ as a entire copy of the web based Netlogo Web that can run in your offline brows
 looking at the html file it is about 83,000 lines of code!!! 
 
 but could be useful for showing a model at school
+
+
+## module 2
+
+In module 2 I made a plot of the logistic map in P5.js of X over T with a silder for R
+
+https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
+
+This chapter was on dynamics, linear vs non linerar systems, and deterministic chaos.
+
+The logistic model and logistic map were used as examples.
+
+I also put the netlogo model from the advanced homework.
+
+
