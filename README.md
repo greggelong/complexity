@@ -24,6 +24,10 @@ In module 2 I made a plot of the logistic map in P5.js of X over T with a silder
 
 https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
 
+I also made a plot of the logistic bifrucation diagram in p5js
+
+https://editor.p5js.org/greggelong/sketches/JrK3J9X4J
+
 This chapter was on dynamics, linear vs non linerar systems, and deterministic chaos.
 
 The logistic model and logistic map were used as examples.
