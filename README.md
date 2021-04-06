@@ -27,9 +27,13 @@ https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
 
 I also made a plot of the logistic bifurcation diagram in p5js
 
+https://editor.p5js.org/greggelong/sketches/JrK3J9X4J
+
 ![bidi](bidi.png)
 
-https://editor.p5js.org/greggelong/sketches/JrK3J9X4J
+I have also made a logistic bifurcation diagram explorer
+
+https://greggelong.github.io/logistic-map/
 
 This chapter was on dynamics, linear vs non linerar systems, and deterministic chaos.
 
