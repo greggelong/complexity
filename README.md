@@ -45,38 +45,38 @@ I also put the netlogo model from the advanced homework.
 
 Often called objects that are self-similar at different levels
 
-or mostly self-similar
+or mostly self-similar.
 
 Using a mathematical definition of dimension
 
-fractals are objects without whole number dimensions
+fractals are objects without whole number dimensions.
 
 D = log(N)/ log(M)
 
-N is the number of copies increasing by step
+N is the number of copies of previous level.
 
-M is the reduction factor
+M is the reduction factor of side from previous level.
 
-D is also called the Hausdorff dimension
+D is also called the Hausdorff dimension.
 
 Koch curve has a D = log(4)/log(3)  
 
 1.2618595071429148
 
-see netLogo model for more information
+See netLogo model for more information.
 
 The Box Counting Method was also introduced 
 
-for natural fractals that are not purely mathematical  
+for natural fractals that are not purely mathematical.  
 
-they had created a cool netLogo model that would 
+They had created a cool netLogo model that would 
 
 get the box counting method of an image.
 
 
 The videos had a really good review of log function
 
-the Advanced homework is work on L-systems which I have 
+The Advanced homework is work on L-systems which I have 
 
 created in python and javaScript.
 
