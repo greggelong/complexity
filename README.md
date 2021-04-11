@@ -35,7 +35,7 @@ I have also made a logistic bifurcation diagram explorer
 
 https://greggelong.github.io/logistic-map/
 
-This chapter was on dynamics, linear vs non linerar systems, and deterministic chaos.
+This chapter was on dynamics, linear vs non linear systems, and deterministic chaos.
 
 The logistic model and logistic map were used as examples.
 
