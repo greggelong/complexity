@@ -89,4 +89,94 @@ https://greggelong.github.io/L-systems/
 
 ## Module 4 information
 
+The module start with Maxwell's demon outlining the effect it had
+
+on the foundations of thermodynamics and the concept of entropy.
+
+Leo Szilard's solution using information gathering as an explanation of entropy in the system
+
+Fills out a more modern definition of information as part of a system not something
+
+removed from it
+
+Then Boltzmann's statistical mechanics equation for entropy is developed to lay 
+
+a foundation for understanding Shannon information
+
+General idea: The more microstates that give rise to a macrostate, the 
+
+probable that macrostate is. Thus high entropy = more probable
+
+
+
+
+>Entropy S : Assumes all microstates are
+equally probable
+where W is the number of microstates
+corresponding to the macrostate.
+S is measured in units defined
+by k (often “Joules per Kelvin”)
+Shannon Information
+S(macrostate) = k logW
+
+
+Shannon's Information content H
+
+>Information content H :
+Let M be the number of possible
+messages. Assume all
+messages are equally probable.
+H is measured in “bits per message”
+H(messagesource) = log2 M
+
+
+Here is a few examples that I calculated in Python
+
+3 year old with 500 words
+
+```python
+
+import math
+
+# three year old with 500 words
+
+um = 1/6   #he says um 1/6 of the time
+
+the = 1/10  # he says the 1/10 of the time
+
+other498 = (1-um-the)/498  # the
+
+
+print(f'um {um} the {the} other 498 {other498}')
+
+
+H_three_year_old = -(um * math.log(um,2) + the * math.log(the,2) + 498 * (other498 * math.log(other498,2)))
+
+
+print(f'H of the three year old = {H_three_year_old}')
+
+
+
+```
+
+to be or not to be
+
+```python
+import math
+
+myText = "to be or not to be"
+
+rf_to = 2/6
+rf_be = 2/6
+rf_or = 1/6
+rf_not = 1/6
+
+
+h_text = -((rf_to * math.log(rf_to,2)) +  (rf_be * math.log(rf_be,2)) + (rf_or * math.log(rf_or,2)) + (rf_not * math.log(rf_not,2)))
+
+
+print(h_text)
+
+```
+
 
