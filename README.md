@@ -116,7 +116,6 @@ where W is the number of microstates
 corresponding to the macrostate.
 S is measured in units defined
 by k (often “Joules per Kelvin”)
-Shannon Information
 S(macrostate) = k logW
 
 
