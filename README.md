@@ -178,4 +178,12 @@ print(h_text)
 
 ```
 
+I have also made a python script that takes a string and spits out a dictionary of word frequencies and 
+
+Shannon number H. 
+
+> %Run shannonInfoAuto1.py
+{'to': 0.3333333333333333, 'be': 0.3333333333333333, 'or': 0.16666666666666666, 'not': 0.16666666666666666}
+ to be or not to be  
+1.9182958340544893
 
