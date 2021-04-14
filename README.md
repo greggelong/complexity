@@ -12,7 +12,7 @@ If you save a model from Netlogo as Netlogo Web
 
 It will create an large html file that contains your model as well
 
-as a entire copy of the web based Netlogo Web that can run in your offline browser!!!
+as a entire copy of the web based Netlogo Web that can run in your off-line browser!!!
 
 looking at the html file it is about 83,000 lines of code!!! 
 
@@ -21,7 +21,7 @@ but could be useful for showing a model at school
 
 ## module 2
 
-In module 2 I made a plot of the logistic map in P5.js of X over T with a silder for R
+In module 2 I made a plot of the logistic map in P5.js of X over T with a slider for R
 
 https://editor.p5js.org/greggelong/sketches/loc0Wd1HY
 
@@ -85,5 +85,8 @@ I have included some python L-systems in this repository
 and will link to others below.
 
 https://greggelong.github.io/L-systems/
+
+
+## Module 4 information
 
 
