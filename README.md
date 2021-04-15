@@ -187,3 +187,34 @@ Shannon number H.
  to be or not to be  
 1.9182958340544893
 
+
+## Module 5 Genetic Algorithms
+
+This module begins with John Holland work in 
+
+evolution by natural selection in computers
+
+Robbie the Robot is the example.
+
+Here they use a GA to find a strategy to pick up 
+
+cans from its environment. 
+
+the algorithm is in outline:
+
+* generate hundreds of random strategies [a list of numbers that encode actions in situations]
+
+* for each strategy, calculate fitness
+
+* recombine successful strategies with others and add some random mutations
+
+* repeat the two steps above until a good strategy is found
+
+
+I have previous made a genetic algorithm for solving a math problem
+
+see:
+
+https://github.com/greggelong/a-sexual-genetic-algorithm
+
+
