@@ -218,3 +218,47 @@ see:
 https://github.com/greggelong/a-sexual-genetic-algorithm
 
 
+
+## Module 6 Cellular automata
+
+This was a really interesting module 
+
+I was already quite familiar with the topic
+
+having coded Game of life in at Python, JavaScript, C++ and even a glider on the micro-bit with 
+
+micro-python
+
+
+I have also coded Wolfram's elementary cellular automata in JavaScrip and python and 
+
+I have also created them with a context dependent grammar (dependent on the neighborhood of cells)
+
+I found the netLogo CA's to be a bit clunky
+
+But Melanie Mitchel's discussion of her paper on evolving genetic algorithms to find CA
+
+rules to do a simple computation of a majority was really fascinating and gets at the heart
+
+of how complexity and levels of meaning.  At the rule level it was impossible to see the computation
+
+but at a higher level boundaries in the space time of the plot the computation took 
+
+on a meaning.  Really reminds me of the big issues in  Hofstadter concerning the mind and nature.
+
+My Wolfram live
+
+https://greggelong.github.io/wolfram_CA_input/
+
+
+A philosophical text adventure game of life
+
+https://editor.p5js.org/greggelong/present/ox4IIE3yt
+
+
+My version of the game of life that you can step back a generation
+
+https://greggelong.github.io/game-of-life-p5js/
+
+
+see other repositories for more cellular automata
