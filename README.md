@@ -1,4 +1,6 @@
 # complexity
+![wolf76rand](wolf76rand.png)
+
 A place to hold netlogo code, links and notes, for introduction to complexity
 
 
