@@ -243,23 +243,25 @@ But Melanie Mitchel's discussion of her paper on evolving genetic algorithms to 
 
 rules to do a simple computation of a majority was really fascinating and gets at the heart
 
-of how complexity and levels of meaning.  At the rule level it was impossible to see the computation
+of how we can understand emergent complexity and order at levels of meaning.
+
+At the rule level it was impossible to see the computation
 
 but at a higher level boundaries in the space time of the plot the computation took 
 
 on a meaning.  Really reminds me of the big issues in  Hofstadter concerning the mind and nature.
 
-My Wolfram live
+My Wolfram live:
 
 https://greggelong.github.io/wolfram_CA_input/
 
 
-A philosophical text adventure game of life
+A philosophical text adventure game of life:
 
 https://editor.p5js.org/greggelong/present/ox4IIE3yt
 
 
-My version of the game of life that you can step back a generation
+My version of the game of life that you can step back a generation:
 
 https://greggelong.github.io/game-of-life-p5js/
 
