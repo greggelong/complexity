@@ -224,6 +224,8 @@ https://github.com/greggelong/a-sexual-genetic-algorithm
 
 ## Module 6 Cellular automata
 
+![wolf73dot1](wolf73dot1.png)
+
 This was a really interesting module 
 
 I was already quite familiar with the topic
