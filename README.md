@@ -253,6 +253,8 @@ but at a higher level boundaries in the space time of the plot the computation t
 
 on a meaning.  Really reminds me of the big issues in  Hofstadter concerning the mind and nature.
 
+![wolf73dot1](wolf73dot1.png)
+
 My Wolfram live:
 
 https://greggelong.github.io/wolfram_CA_input/
