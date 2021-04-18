@@ -271,3 +271,5 @@ https://greggelong.github.io/game-of-life-p5js/
 
 
 see other repositories for more cellular automata
+
+https://github.com/greggelong/game-of-life-python-cpp-c64
