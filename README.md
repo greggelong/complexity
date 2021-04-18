@@ -253,7 +253,6 @@ but at a higher level boundaries in the space time of the plot the computation t
 
 on a meaning.  Really reminds me of the big issues in  Hofstadter concerning the mind and nature.
 
-![wolf73dot1](wolf73dot1.png)
 
 My Wolfram live:
 
@@ -271,5 +270,7 @@ https://greggelong.github.io/game-of-life-p5js/
 
 
 see other repositories for more cellular automata
+
+![c64life](c64life.png)
 
 https://github.com/greggelong/game-of-life-python-cpp-c64
