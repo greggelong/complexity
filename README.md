@@ -274,3 +274,91 @@ see other repositories for more cellular automata
 ![c64life](c64life.png)
 
 https://github.com/greggelong/game-of-life-python-cpp-c64
+
+
+## Module 7 Models of Biological Self-Organization
+
+This module looked at self-organization in nature
+
+though flocking and schooling models like Boids which I looked at in
+
+Shiffman's Nature of Code
+
+Or models like Ants which I have already up loaded
+
+The complex behavior is emergent  and does not require central control
+
+it comes from agents following simple rules with limited communication and knowledge
+
+A flock of birds does not have a leader that guides it shape
+
+it emerges from simple rules.
+
+I have done some coding that is tangent to this topic
+
+https://greggelong.github.io/vehicles/
+
+
+
+
+ ## Module 8 Models of Cooperation in Social Systems
+
+ This module looked at cooperation through two 'Idea models'
+
+ The "Prisoner's dilemma" and "El Farol"
+
+ Axelrod expanded on Flood and Dresher looking at different strategies
+
+over an iterated game.
+
+I made a simple script to add up the Alice and Bob, payoff matrix for cooperation or defection
+
+```python
+
+bobS = 0
+aliceS = 0
+rnd =0
+
+playAgain = True
+
+while playAgain:
+    rnd =rnd +1
+    
+    
+    bob = input("Bob c or d ")
+    alice = input("Alice c or d ")
+    
+    if alice == "c" and bob == "c":
+        aliceS += 3
+        bobS+=3
+    elif alice == "c" and bob == "d":
+        aliceS += 0
+        bobS+=5
+    elif alice == "d" and bob == "c":
+        aliceS += 5
+        bobS+=0
+        
+    elif alice == "d" and bob == "d":
+        aliceS += 1
+        bobS+=1
+        
+    print("*"*20)
+    print ("ROUND", rnd)
+    print("*"*20)
+    print ("Alice's score = ",aliceS)
+    print ("Bob's score = ",bobS)
+    print()
+    print()
+    q = input("Play again y or n")
+    if q == "n":
+        playAgain = False
+
+
+
+
+
+
+```
+
+I would like to expand this to automatically do strategies like tit-for-tat
+
