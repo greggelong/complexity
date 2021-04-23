@@ -21,6 +21,21 @@ looking at the html file it is about 83,000 lines of code!!!
 
 but could be useful for showing a model at school
 
+## module 1
+
+Complex systems are:
+
+Large networks of simple interacting elements,  
+
+which, following simple rules, produce emergent,collective, complex behavior. 
+
+
+Core Disciplines of the Sciences of Complexity 
+
+* Dynamics: The study of continually changing structure and behavior of systems 
+* Information:The study of representation, symbols, and communication 
+* Computation: The study of how systems process information and act on the results 
+* Evolution / Learning: The study of how systems adapt to constantly changing environments
 
 ## module 2
 
