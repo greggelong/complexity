@@ -380,9 +380,33 @@ I would like to expand this to automatically do strategies like tit-for-tat
 
 --------------
 
-##     Fractals and Scaling  David Feldman
+#   Fractals and Scaling  David Feldman
 
 also holding some code from Fractas course on complexity explorer
+
+## Module 2 generating fractals
+
+Here is a web app that expands the work from Module 3
+
+regular and random Koch curves
+
+https://greggelong.github.io/koch/
+
+a fractal-like object using Diffusion-Limited Aggregation
+
+https://greggelong.github.io/dla/
+
+chaos game
+
+https://greggelong.github.io/chaos-game/
+
+# module 4
+
+The St. Petersburg Paradox plotted in python
+
+
+
+
 
 
  
