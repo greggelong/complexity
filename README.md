@@ -1,4 +1,4 @@
-# complexity
+# complexity and fractals
 
 ![wolf73rand](wolf73rand.png)
 
@@ -376,4 +376,14 @@ while playAgain:
 ```
 
 I would like to expand this to automatically do strategies like tit-for-tat
+
+
+--------------
+
+##     Fractals and Scaling  David Feldman
+
+also holding some code from Fractas course on complexity explorer
+
+
+ 
 
