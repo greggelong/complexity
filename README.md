@@ -404,7 +404,50 @@ https://greggelong.github.io/chaos-game/
 
 The St. Petersburg Paradox plotted in python
 
+word frequencies
 
+functions p(x)
+
+```Python
+
+def p1(x):
+    return 0.38*(x**-1.5)
+
+
+def p2(x):
+    return (1/4)*(3/4)**(x-1)
+
+
+def p3(x):
+    return 0.61*x**-2
+
+def p4(x):
+    '''
+    exponential distribution
+    Suppose that, I toss a ball of paper toward a recycling bin
+    and that I repeat until I am successful and the paper lands in the bin.
+    The probability that a toss is successful is 1/3.
+    Let x denote the number of tosses needed to get the paper in the bin.
+    '''
+    # paper toss
+    return ((2/3)**(x-1))*(1/3)
+
+
+print("question 1", p1(2)/p1(4))
+print("question 2",p1(3)/p1(6))
+print("question 3",p2(4)/p2(8))
+
+print("quiz q1",p3(8))
+print("quiz q2",p3(16))
+
+print("quiz q3", p4(5))
+print("quiz q4", p4(10))
+
+
+
+
+
+```
 
 
 
