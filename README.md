@@ -475,6 +475,32 @@ the plot shows you what next years population will be
 https://openprocessing.org/sketch/1205871
 
 
+```javaScript
 
+let a = 1000 // a is the annihilation number, the absloute limit of population
+let r = 3.7  // r is growth rate
+// simple function to capture an absloute limmiting factor for population, let a = 1000
+function setup() {
+	createCanvas(800, 800);
+	background(100);
+	logisticEq();
+}
+
+function logisticEq(){
+  
+  background(0);
+  stroke(0,200,0,200);
+  
+  for (let p = 0; p < a;p++){
+     let nextP = r*p*(1-(p/a)) // a is the annihilation population limit nextP is the set to the function
+      let y = map(nextP, 0, a, height, 0); // map the values for plotting
+      let px = map(p,0,a,0,width);
+      ellipse(px,y,1,1);
+		   
+  }
+}
+
+
+```
  
 
