@@ -463,7 +463,7 @@ This can test for sensitivity to inital conditions.  I used it to answer test an
 
 It plots the results with matplotlib and prints values to the shell
 
-logisticMapInitialCondcmp.py
+logisticEquInitialCondcmp.py
 
 
 Pay attention if you do not iterate the equation and instead just plot the function over population
