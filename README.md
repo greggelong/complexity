@@ -455,7 +455,7 @@ print("quiz q4", p4(10))
 
 I have made a python script that can compare two initial conditions for a given r value
 
-This can test for sensitivity to inital conditions.  I used it to answer test and homwork questions
+This can test for sensitivity to inital conditions.  I used it to answer test and homework questions
 
 It plots the results with matplotlib and prints values to the shell
 
