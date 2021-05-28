@@ -511,6 +511,6 @@ in the logistic map of when the function is  ploted over r values from 2 two fou
 
 but it is cool to see  it in a time serise plot so clearly.
 
-![logE2](logisticEquationR3p838.png)
+![logE2](logisticEqR3p838.png)
 
 
