@@ -453,6 +453,8 @@ print("quiz q4", p4(10))
 
 ## module 3 Chaos and the Butterfly effect
 
+![logE](logisticEquation3p77.png)
+
 I have made a python script that can iterate the logistic equation
 
 and can compare two initial conditions for a given r value.
@@ -463,9 +465,12 @@ It plots the results with matplotlib and prints values to the shell
 
 logisticMapInitialCondcmp.py
 
+
 Pay attention if you do not iterate the equation and instead just plot the function over population
 
-the plot is a curve with one end at zero population and one at population max
+the plot is a parabola with one end at zero population and one at population max
+
+the plot shows you what next years population will be
 
 https://openprocessing.org/sketch/1205871
 
