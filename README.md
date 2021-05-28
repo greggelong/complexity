@@ -467,7 +467,7 @@ Pay attention if you do not iterate the equation and instead just plot the funct
 
 the plot is a curve with one end at zero population and one at population max
 
-<iframe src="https://openprocessing.org/sketch/1205871/embed/" width="400" height="400"></iframe>
+https://openprocessing.org/sketch/1205871
 
 
 
