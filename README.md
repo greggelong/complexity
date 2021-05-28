@@ -453,7 +453,7 @@ print("quiz q4", p4(10))
 
 ## module 3 Chaos and the Butterfly effect
 
-![logE](logisticEquation3p77.png)
+![logE](logisticEquationR3p77.png)
 
 I have made a python script that can iterate the logistic equation
 
