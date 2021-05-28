@@ -21,12 +21,12 @@ def plotit(x, y, z, w):   # x is turns, y is running total, z is total per turn
     figure, axis = plt.subplots(2)
   
     # For average
-    axis[0].plot(x, y)
+    axis[0].plot(x, y, marker=".")
     axis[0].set_ylim([0,1]) # make sure the y axis is the same
     axis[0].set_title("logistic plot1 with r = %5.3f and seed = %5.3f" %(r,y[0]))
       
     # For total over all
-    axis[1].plot(z, w)
+    axis[1].plot(z, w, marker=".")
     axis[1].set_ylim([0,1]) # make sure the y axis is the same
     axis[1].set_title("logistic plot2 with r= %5.3f and seed = %5.3f" %(r,w[0]))
     
