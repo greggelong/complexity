@@ -453,13 +453,21 @@ print("quiz q4", p4(10))
 
 ## module 3 Chaos and the Butterfly effect
 
-I have made a python script that can compare two initial conditions for a given r value
+I have made a python script that can iterate the logistic equation
+
+and can compare two initial conditions for a given r value.
 
 This can test for sensitivity to inital conditions.  I used it to answer test and homework questions
 
 It plots the results with matplotlib and prints values to the shell
 
 logisticMapInitialCondcmp.py
+
+Pay attention if you do not iterate the equation and instead just plot the function over population
+
+the plot is a curve with one end at zero population and one at population max
+
+<iframe src="https://openprocessing.org/sketch/1205871/embed/" width="400" height="400"></iframe>
 
 
 
