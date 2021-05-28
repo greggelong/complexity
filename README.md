@@ -502,5 +502,15 @@ function logisticEq(){
 
 
 ```
- 
+
+Wow, from the quiz I just found a sweet spot of period 3 at r =3.838.  
+
+interesting that this is surrounded by chaotic values. I have seen these spaces
+
+in the logistic map of when the function is  ploted over r values from 2 two four
+
+but it is cool to see  it in a time serise plot so clearly.
+
+![logE2](logisticEquationR3p838.png)
+
 
