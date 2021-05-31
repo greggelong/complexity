@@ -513,4 +513,21 @@ but it is cool to see  it in a time serise plot so clearly.
 
 ![logE2](logisticEqR3p838.png)
 
+Module 4 differential equations and bifurcation
+
+https://www.desmos.com/calculator/oldpvi4ecl
+
+the example of logistic equation with harvest
+
+it shows that a continuous function can have sudden transitions
+
+an example a small increaces in fishing beyond a certian point lead to sudden crashes 
+
+of fish population.  and only by cutting out all fishing is it possible for the fish populations
+
+to grow toward the carrying capacity
+
+Perhaps I felt this on May 30th when I experienced a sudden collapse while running
+
+
 
