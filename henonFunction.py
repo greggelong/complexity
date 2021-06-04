@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 
-def henon(a,b,x,y):
+def henon(a=1.4,b=0.3,x=0.2,y=0.2):
     global lx,ly
 
     for i in range(1,3000):
