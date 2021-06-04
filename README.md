@@ -513,7 +513,7 @@ but it is cool to see  it in a time serise plot so clearly.
 
 ![logE2](logisticEqR3p838.png)
 
-Module 4 differential equations and bifurcation
+## Module 4 differential equations and bifurcation
 
 https://www.desmos.com/calculator/oldpvi4ecl
 
@@ -528,6 +528,53 @@ of fish population.  and only by cutting out all fishing is it possible for the 
 to grow toward the carrying capacity
 
 Perhaps I felt this on May 30th when I experienced a sudden collapse while running
+
+## module 5 and 6
+
+I toyed with plotting the logistic map. Zoomed in 
+
+![zoom](three6tothree743.png)
+
+The code is in P5 js
+
+## module 7 and 8 
+
+Made a python script to caculate and plot the Henon map and used it to answer test questions.
+
+Here is the Henon strange attractor
+
+![henon](henonSA.png)
+
+```Python
+import matplotlib.pyplot as plt
+
+
+def henon(a,b,x,y):
+    global lx,ly
+
+    for i in range(1,3000):
+        xnew = 1+y-a*x**2
+        ynew = b*x
+        #print(i,xnew,ynew)
+        lx.append(xnew)
+        ly.append(ynew)
+        
+        x =xnew
+        y =ynew
+    
+    
+# initalize lists for plotting
+lx = []
+ly = []
+
+henon(1.4,0.3,0.2,0.2) #henon(a,b,x,y)
+
+
+plt.scatter(lx,ly, marker=".", alpha=0.2)
+plt.show()
+
+
+```
 
 
 
